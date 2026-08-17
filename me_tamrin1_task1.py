@@ -36,3 +36,11 @@ masahat = (
 print("masahat is ",masahat," (m**2)")
 
 
+#tamrin ezafi
+num1 = int(input("give me number one "))
+num2 = int(input("give me number tow "))
+
+print("jam : ", num1 + num2)
+print("tafrig : ",num1 - num2)
+print("zarb : ",num1 * num2)
+print("tagsim : ",num1 / num2)
